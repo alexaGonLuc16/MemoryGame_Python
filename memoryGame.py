@@ -1,3 +1,21 @@
+"""
+Memory Game (Memorama)
+-----------------------
+
+Author: Alexa Jimena González Lucio
+Date: October 19, 2022
+Description: A console-based memory game where players match pairs of cards. 
+The game tracks scores and provides a fun way to improve memory skills.
+
+Instructions: 
+1. Start the game by running the script.
+2. Choose the size of the memory board (even numbers between 2 and 10).
+3. Enter coordinates to reveal cards and find pairs.
+4. The game saves scores to 'scores.txt'.
+
+License: Apache 2.0
+
+"""
 import random
 import sys
 import os
